@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @itzAceOfficial
+- 🗣️ Sup, @codeynoor here
+- 🤓 You might call me a nerd
+- 💬 I tried picking up various coding languages to spend my free time...
+- ❗ And I progressed in Python!
+- 🤪 So I upload things here when I feel like it
 
 <!---
 itzAceOfficial/itzAceOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
