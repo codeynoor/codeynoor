@@ -1,6 +1,6 @@
 - 🗣️ Sup, @codeynoor here
 - 🤓 You might call me a nerd
-- 💬 Because I tried picking up various coding languages to spend my free time...
+- 💬 Because I tried picking up various coding languages to kill my free time...
 - ❗ And I progressed in Python!
 - 🤪 So I upload things here when I feel like it
 
